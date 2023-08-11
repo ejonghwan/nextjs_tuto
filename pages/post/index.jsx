@@ -60,6 +60,8 @@ const Post = () => {
             <Header />
             post page
 
+            
+
             <form onSubmit={handleSubmit}>
                 <input type="text" value={title} onChange={handleChange} name={"title"} />
                 <input type="text" value={content} onChange={handleChange} name={"content"} />

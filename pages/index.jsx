@@ -49,6 +49,7 @@ export default function Home() {
 
 
 				<h1>Main</h1>
+				배포잘 되나 ? 배포잘 되나 ? 배포잘 되나 ? 배포잘 되나 ? 배포잘 되나 ? 
 				<div className={styles.pic}>
 					<Image src={pic} alt='pic' fill quality={50} placeholder='blur' />
 				</div>
